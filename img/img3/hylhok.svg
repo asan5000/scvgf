@@ -1,0 +1,36 @@
+<svg width="49.000000" height="29.000000" viewBox="0 0 49 29" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_70_5285_dd" x="-0.666748" y="-0.250000" width="28.666748" height="28.666687" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0.666667" dy="1.33333"/>
+			<feGaussianBlur stdDeviation="1.77778"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.55686 0 0 0 0 0.60784 0 0 0 0 0.68235 0 0 0 0.2 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_70_5286_dd" x="-1351.000000" y="-288.000000" width="0.000000" height="0.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0.666667" dy="1.33333"/>
+			<feGaussianBlur stdDeviation="1.77778"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.55686 0 0 0 0 0.60784 0 0 0 0 0.68235 0 0 0 0.2 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<rect id="Switch" rx="10.312500" width="46.125000" height="20.625000" transform="translate(2.687500 2.437500)" fill="#000000" fill-opacity="0.200000"/>
+	<g filter="url(#filter_70_5285_dd)">
+		<path id="Knob" d="M13 21.75C17.97 21.75 22 17.72 22 12.75C22 7.77 17.97 3.75 13 3.75C8.02 3.75 4 7.77 4 12.75C4 17.72 8.02 21.75 13 21.75Z" fill="#000000" fill-opacity="0.600000" fill-rule="evenodd"/>
+	</g>
+	<path id="Knob" d="M22 12.75C22 17.72 17.97 21.75 13 21.75C8.02 21.75 4 17.72 4 12.75C4 7.77 8.02 3.75 13 3.75C17.97 3.75 22 7.77 22 12.75ZM21.04 10.92Q21.25 11.81 21.25 12.75Q21.25 13.68 21.04 14.57Q20.88 15.28 20.6 15.96Q20.3 16.65 19.9 17.26Q19.44 17.97 18.83 18.58Q18.22 19.19 17.51 19.65Q16.9 20.06 16.21 20.35Q15.53 20.63 14.82 20.79Q13.93 21 13 21Q12.06 21 11.17 20.79Q10.46 20.63 9.78 20.35Q9.09 20.06 8.48 19.65Q7.77 19.19 7.16 18.58Q6.55 17.97 6.09 17.26Q5.69 16.65 5.39 15.96Q5.11 15.28 4.95 14.57Q4.75 13.68 4.75 12.75Q4.75 11.81 4.95 10.92Q5.11 10.21 5.39 9.53Q5.69 8.84 6.09 8.23Q6.55 7.52 7.16 6.91Q7.77 6.3 8.48 5.84Q9.09 5.44 9.78 5.14Q10.46 4.86 11.17 4.7Q12.06 4.5 13 4.5Q13.93 4.5 14.82 4.7Q15.53 4.86 16.21 5.14Q16.9 5.44 17.51 5.84Q18.22 6.3 18.83 6.91Q19.44 7.52 19.9 8.23Q20.3 8.84 20.6 9.53Q20.88 10.21 21.04 10.92Z" fill="#FFFFFF" fill-opacity="0.500000" fill-rule="evenodd"/>
+	<g opacity="0.000000" filter="url(#filter_70_5286_dd)">
+		<path id="Knob" d="M38.5 21.75C43.47 21.75 47.5 17.72 47.5 12.75C47.5 7.77 43.47 3.75 38.5 3.75C33.52 3.75 29.5 7.77 29.5 12.75C29.5 17.72 33.52 21.75 38.5 21.75Z" fill="#FFFFFF" fill-opacity="0.600000" fill-rule="evenodd"/>
+	</g>
+	<path id="Knob" d="M47.5 12.75C47.5 17.72 43.47 21.75 38.5 21.75C33.52 21.75 29.5 17.72 29.5 12.75C29.5 7.77 33.52 3.75 38.5 3.75C43.47 3.75 47.5 7.77 47.5 12.75ZM46.54 10.92C46.68 11.51 46.75 12.12 46.75 12.75C46.75 13.37 46.68 13.98 46.54 14.57C46.44 15.04 46.29 15.51 46.1 15.96C45.9 16.42 45.67 16.85 45.4 17.26C45.09 17.73 44.74 18.17 44.33 18.58C43.92 18.99 43.48 19.34 43.01 19.65C42.6 19.92 42.17 20.15 41.71 20.35C41.26 20.54 40.79 20.69 40.32 20.79C39.73 20.93 39.12 21 38.5 21C37.87 21 37.26 20.93 36.67 20.79C36.2 20.69 35.73 20.54 35.28 20.35C34.82 20.15 34.39 19.92 33.98 19.65C33.51 19.34 33.07 18.99 32.66 18.58C32.25 18.17 31.9 17.73 31.59 17.26C31.32 16.85 31.09 16.42 30.89 15.96C30.7 15.51 30.55 15.04 30.45 14.57C30.31 13.98 30.25 13.37 30.25 12.75C30.25 12.12 30.31 11.51 30.45 10.92C30.55 10.45 30.7 9.98 30.89 9.53C31.09 9.07 31.32 8.64 31.59 8.23C31.9 7.76 32.25 7.32 32.66 6.91C33.07 6.51 33.51 6.15 33.98 5.84C34.39 5.57 34.82 5.34 35.28 5.14C35.73 4.95 36.2 4.8 36.67 4.7C37.26 4.56 37.87 4.5 38.5 4.5C39.12 4.5 39.73 4.56 40.32 4.7C40.79 4.8 41.26 4.95 41.71 5.14C42.17 5.34 42.6 5.57 43.01 5.84C43.48 6.15 43.92 6.51 44.33 6.91C44.74 7.32 45.09 7.76 45.4 8.23C45.67 8.64 45.9 9.07 46.1 9.53C46.29 9.98 46.44 10.45 46.54 10.92Z" fill="#FFFFFF" fill-opacity="0.500000" fill-rule="evenodd"/>
+</svg>

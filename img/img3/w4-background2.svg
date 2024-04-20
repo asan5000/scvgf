@@ -1,0 +1,18 @@
+<svg width="1468.000000" height="333.000000" viewBox="0 0 1468 333" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_1_3476_0" x1="176.000000" y1="559.999878" x2="1382.000000" y2="556.000244" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="0.077767" stop-color="#567AAF" stop-opacity="0.239216"/>
+			<stop offset="0.320104" stop-color="#97ADCE" stop-opacity="0.400000"/>
+			<stop offset="0.382295" stop-color="#A8BAD6"/>
+			<stop offset="0.451095" stop-color="#BAC9DE" stop-opacity="0.490196"/>
+			<stop offset="0.708389" stop-color="#FFFFFF" stop-opacity="0.658824"/>
+			<stop offset="0.827999" stop-color="#FFFFFF" stop-opacity="0.239216"/>
+			<stop offset="0.996703" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<path id="Vector 273" d="M0.5 209C61.3 272.2 165.5 332 269.5 332C373.5 332 637.03 121.39 715.6 66.69C781.71 20.68 880.61 -56.56 1037.77 66.69C1223.74 212.54 1390.54 268.41 1466.5 " stroke="url(#paint_linear_1_3476_0)" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

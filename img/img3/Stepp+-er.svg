@@ -1,0 +1,92 @@
+<svg width="104.000000" height="63.000000" viewBox="0 0 104 63" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_70_5273_dd" x="0.000000" y="0.000000" width="63.000000" height="63.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="5"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="11.25"/>
+			<feGaussianBlur stdDeviation="7.5"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+			<feBlend mode="normal" in2="effect_backgroundBlur_1" result="effect_dropShadow_2"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="3.75"/>
+			<feGaussianBlur stdDeviation="2.5"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_2" result="effect_dropShadow_3"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="1.5"/>
+			<feGaussianBlur stdDeviation="1"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_3" result="effect_dropShadow_4"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_4" result="shape"/>
+		</filter>
+		<clipPath id="clip70_5272">
+			<rect id="Plus Circle" rx="-0.375000" width="17.250000" height="17.250000" transform="translate(22.875000 11.625000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip70_5273">
+			<rect id="Add" rx="8.625000" width="17.250000" height="17.250000" transform="translate(22.875000 11.625000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_70_5277_dd" x="41.000000" y="0.000000" width="63.000000" height="63.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="5"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="11.25"/>
+			<feGaussianBlur stdDeviation="7.5"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+			<feBlend mode="normal" in2="effect_backgroundBlur_1" result="effect_dropShadow_2"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="3.75"/>
+			<feGaussianBlur stdDeviation="2.5"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_2" result="effect_dropShadow_3"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="1.5"/>
+			<feGaussianBlur stdDeviation="1"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_3" result="effect_dropShadow_4"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_4" result="shape"/>
+		</filter>
+		<clipPath id="clip70_5276">
+			<rect id="Minus" rx="-0.375000" width="17.250000" height="17.250000" transform="translate(63.875000 11.625000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip70_5277">
+			<rect id="Frame 48095654" rx="8.625000" width="17.250000" height="17.250000" transform="translate(63.875000 11.625000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_70_5273_0" x1="25.875000" y1="13.124999" x2="35.250000" y2="28.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.101961"/>
+			<stop offset="1.000000" stop-color="#000000" stop-opacity="0.301961"/>
+		</linearGradient>
+	</defs>
+	<rect id="Stepper" rx="13.312500" width="61.625000" height="26.625000" transform="translate(21.187500 6.937500)" fill="#FFFFFF" fill-opacity="0.200000"/>
+	<g filter="url(#filter_70_5273_dd)">
+		<rect id="Add" rx="8.625000" width="17.250000" height="17.250000" transform="translate(22.875000 11.625000)" fill="#007AFF" fill-opacity="1.000000"/>
+		<g clip-path="url(#clip70_5273)">
+			<g clip-path="url(#clip70_5272)">
+				<path id="Vector" d="M31.12 25.87L31.12 14.62C31.12 14.41 31.29 14.25 31.5 14.25C31.71 14.25 31.87 14.41 31.87 14.62L31.87 25.87C31.87 26.08 31.71 26.25 31.5 26.25C31.29 26.25 31.12 26.08 31.12 25.87Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.125000" stroke-linejoin="round"/>
+				<path id="Vector" d="M25.87 19.87L37.12 19.87C37.33 19.87 37.5 20.04 37.5 20.25C37.5 20.45 37.33 20.62 37.12 20.62L25.87 20.62C25.66 20.62 25.5 20.45 25.5 20.25C25.5 20.04 25.66 19.87 25.87 19.87Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.125000" stroke-linejoin="round"/>
+			</g>
+		</g>
+	</g>
+	<rect id="Add" rx="8.625000" width="17.250000" height="17.250000" transform="translate(22.875000 11.625000)" stroke="url(#paint_linear_70_5273_0)" stroke-opacity="1.000000" stroke-width="0.750000" style=""/>
+	<path id="1" d="M51.82 14.61L53.53 14.61L53.53 26.25L51.77 26.25L51.77 16.37L51.7 16.37L48.92 18.19L48.92 16.51L51.82 14.61Z" fill="#FFFAFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<g filter="url(#filter_70_5277_dd)">
+		<rect id="Frame 48095654" rx="8.625000" width="17.250000" height="17.250000" transform="translate(63.875000 11.625000)" fill="#000000" fill-opacity="0.600000"/>
+		<g clip-path="url(#clip70_5277)">
+			<g clip-path="url(#clip70_5276)">
+				<path id="Vector" d="M66.87 19.87L78.12 19.87C78.33 19.87 78.5 20.04 78.5 20.25C78.5 20.45 78.33 20.62 78.12 20.62L66.87 20.62C66.66 20.62 66.5 20.45 66.5 20.25C66.5 20.04 66.66 19.87 66.87 19.87Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.125000" stroke-linejoin="round"/>
+			</g>
+		</g>
+	</g>
+	<rect id="Frame 48095654" rx="8.625000" width="17.250000" height="17.250000" transform="translate(63.875000 11.625000)" stroke="#FFFFFF" stroke-opacity="0.500000" stroke-width="0.750000" style=""/>
+</svg>

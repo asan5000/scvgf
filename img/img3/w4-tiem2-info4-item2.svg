@@ -1,0 +1,364 @@
+<svg width="300.000000" height="99.000000" viewBox="0 0 300 99" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_3565_dd" x="0.000000" y="0.000000" width="300.000000" height="99.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="10"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_1_3567_dd" x="68.000000" y="17.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3568">
+			<rect id="Device Mobile" width="24.000000" height="24.000000" transform="translate(78.000000 27.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3569_dd" x="128.000000" y="17.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3570">
+			<rect id="Device Laptop 2" width="24.000000" height="24.000000" transform="translate(138.000000 27.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3571_dd" x="188.000000" y="17.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3572">
+			<rect id="Device Desktop" width="24.000000" height="24.000000" transform="translate(198.000000 27.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3573_dd" x="68.000000" y="77.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3574">
+			<rect id="Chat Square Double Text" width="24.000000" height="24.000000" transform="translate(78.000000 87.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3575_dd" x="128.000000" y="77.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3576">
+			<rect id="File" width="24.000000" height="24.000000" transform="translate(138.000000 87.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3577_dd" x="188.000000" y="77.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3578">
+			<rect id="Folder" width="24.000000" height="24.000000" transform="translate(198.000000 87.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3579_dd" x="68.000000" y="137.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3580">
+			<rect id="Mail" width="24.000000" height="24.000000" transform="translate(78.000000 147.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3581_dd" x="128.000000" y="137.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3582">
+			<rect id="Image Sun Brightness" width="24.000000" height="24.000000" transform="translate(138.000000 147.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3583_dd" x="188.000000" y="137.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3584">
+			<rect id="Card Shopping Card" width="24.000000" height="24.000000" transform="translate(198.000000 147.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3585_dd" x="68.000000" y="197.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3586">
+			<rect id="Image" width="24.000000" height="24.000000" transform="translate(78.000000 207.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3587_dd" x="128.000000" y="197.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3588">
+			<rect id="Browser Window" width="24.000000" height="24.000000" transform="translate(138.000000 208.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_1_3589_dd" x="188.000000" y="197.500000" width="44.000000" height="44.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="11.4953"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip1_3590">
+			<rect id="Hand Point Finger" width="24.000000" height="24.000000" transform="translate(198.000000 208.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_3566">
+			<rect id="Icons" rx="10.000000" width="200.000000" height="263.000000" transform="translate(50.000000 -2.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_3565">
+			<rect id="Video" rx="19.500000" width="299.000000" height="98.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<radialGradient id="paint_radial_1_3565_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 -15.3421) rotate(90) scale(117.237 438.403)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.800000"/>
+		</radialGradient>
+		<pattern id="pattern_1_35651" patternContentUnits="objectBoundingBox" width="0.386667" height="0.767677">
+			<use xlink:href="#image1_3565_1" transform="scale(0.003333 0.010101)"/>
+		</pattern>
+		<image id="image1_3565_1" width="116.000000" height="76.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAABMCAYAAAC8s5PnAAAABHNCSVQICAgIfAhkiAAAAwVJREFUeJzt3b3OVFUUgGEolEIR7CQRCn4KkMo/AoWdSiAQGgg0Eo1WWkm0g0QSCiighQIuACpoqeUWvJxN/80zySbfMDMx71u+yc7ZZ00xK3uttc+ePbtgjLEX7gDc53An4b6G+w7ue7iLcJcmndbqGdqL9qx3UwwUq4WYRkRExJYzxvgYTn/+X8CdhVMicgXuOtxPcL/A/Ty5Vs/QXrRnvdtpOMVq/04XERERW8QYYx/cZ3A6JVGScB7uKpySmN/h/oT7e9JprZ6hJOsanN5NMVCsDsEtxD4iIiI2xBjjINwxuG/gdJqiBOhXuFtwt+Huwd2fdFqrZ2gv2rMSpR/gVHpTTD/d6SIiImINjDE+hNOpkEpC6rtR2UmnLjqx+QfuEdxjuGeT7gncQ7i7k3vWuykGipVKjYr9BztdRERErJgxxkdwR+C+gtOJyA04lad0OqPk5Cncc7hXk05rlTwpGbsD9wecepQUqy/hFPuF3ygiIiJWzJKpqKNwZ+A0yXUTTqUolbF0AqQk5jXcv5NOa19M7kV71umRYqBYKaYqqS38RhEREbFilvQPnYBT8/BlOJWT1PCsfh+dCum05w3cf5NOa/UM7UV71rspBroe4BzccbiF3ygiIiJWzC6TIv3RKyH4C+4BnMpYSlh0AjSbFGnty8m9aM9KijRFp1gppop9SVFERMT7Zkn5TCWc2fKZ7gFSiWm2fKbS1jrKZ2rIni2fKQaK1bdwlc8iIiI2wTs0WqspWOP3u2m0VnOzTmyUxKyj0Vp71rup0VqxqtE6IiJiWxgY9x6+VFDj47Mj+SonzY7kayJtHSP52suqR/J1zUEj+REREdvCwAWCS8o6upBQo+e6vPE3OCUdGoOfvbxRPUCburxRF11qyq/+oYiIiG1hrP4zHz/CKVHSqcs6PvOhu4b6zEdEREQsMjb3QVj1KKmRWSU6JTa6Q0jP0F50AqR3Uwz6IGxERMT/lTHGJ3CH4XRKotKb+m6UPF2A051JGoPXFJieob2oBHYKTjFY+QTZW/5kP4jtiSXNAAAAAElFTkSuQmCC"/>
+		<linearGradient id="paint_linear_1_3567_0" x1="94.529404" y1="17.500000" x2="94.529404" y2="61.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3567_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 10.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3569_0" x1="154.529404" y1="17.500000" x2="154.529404" y2="61.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3569_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 10.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3571_0" x1="214.529404" y1="17.500000" x2="214.529404" y2="61.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3571_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 10.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3573_0" x1="94.529404" y1="77.500000" x2="94.529404" y2="121.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3573_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 70.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3575_0" x1="154.529404" y1="77.500000" x2="154.529404" y2="121.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3575_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 70.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3577_0" x1="214.529404" y1="77.500000" x2="214.529404" y2="121.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3577_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 70.6813) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3579_0" x1="94.529404" y1="137.500000" x2="94.529404" y2="181.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3579_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 130.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3581_0" x1="154.529404" y1="137.500000" x2="154.529404" y2="181.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3581_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 130.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3583_0" x1="214.529404" y1="137.500000" x2="214.529404" y2="181.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3583_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 130.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3585_0" x1="94.529404" y1="197.500000" x2="94.529404" y2="241.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3585_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 190.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3587_0" x1="154.529404" y1="197.500000" x2="154.529404" y2="241.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3587_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 190.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_1_3589_0" x1="214.529404" y1="197.500000" x2="214.529404" y2="241.500000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2E335A"/>
+			<stop offset="1.000000" stop-color="#1C1B33" stop-opacity="0.200000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3589_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 190.681) rotate(90) scale(52.1053 64.2991)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.800000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<g filter="url(#filter_1_3565_dd)">
+		<rect id="Video" rx="19.500000" width="299.000000" height="98.000000" transform="translate(0.500000 0.500000)" fill="url(#paint_radial_1_3565_0)" fill-opacity="0.200000"/>
+		<rect id="Video" rx="19.500000" width="299.000000" height="98.000000" transform="translate(0.500000 0.500000)" fill="url(#pattern_1_35651)" fill-opacity="0.200000"/>
+		<g clip-path="url(#clip1_3565)">
+			<g clip-path="url(#clip1_3566)">
+				<g filter="url(#filter_1_3567_dd)">
+					<rect id="Frame 48095687" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 17.931072)" fill="url(#paint_linear_1_3567_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095687" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 17.931072)" fill="url(#paint_radial_1_3567_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3568)">
+						<path id="Vector" d="M86 49.5C84.9 49.5 84 48.6 84 47.5L84 31.5C84 30.4 84.9 29.5 86 29.5L94 29.5C95.1 29.5 96 30.4 96 31.5L96 47.5C96 48.6 95.1 49.5 94 49.5L86 49.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M88.53 30.5C88.51 30.5 88.5 30.49 88.5 30.47L88.5 29.5L91.5 29.5L91.5 30.47C91.5 30.49 91.49 30.5 91.47 30.5L88.53 30.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000"/>
+					</g>
+				</g>
+				<rect id="Frame 48095687" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 17.931072)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3569_dd)">
+					<rect id="Frame 48095688" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 17.931072)" fill="url(#paint_linear_1_3569_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095688" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 17.931072)" fill="url(#paint_radial_1_3569_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3570)">
+						<path id="Vector" d="M142.5 43.5C142.22 43.5 142 43.28 142 43L142 33C142 32.72 142.22 32.5 142.5 32.5L157.5 32.5C157.78 32.5 158 32.72 158 33L158 43C158 43.28 157.78 43.5 157.5 43.5L142.5 43.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M143 46.5C141.34 46.5 140 45.16 140 43.5L160 43.5C160 45.16 158.66 46.5 157 46.5L143 46.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095688" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 17.931072)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3571_dd)">
+					<rect id="Frame 48095689" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 17.931072)" fill="url(#paint_linear_1_3571_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095689" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 17.931072)" fill="url(#paint_radial_1_3571_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3572)">
+						<path id="Vector" d="M211 43.5L211 48.5L209 48.5L209 43.5L211 43.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M205 48.5L215 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M200.5 43.5C200.22 43.5 200 43.28 200 43L200 31C200 30.72 200.22 30.5 200.5 30.5L219.5 30.5C219.78 30.5 220 30.72 220 31L220 43C220 43.28 219.78 43.5 219.5 43.5L200.5 43.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095689" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 17.931072)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3573_dd)">
+					<rect id="Frame 48095691" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 77.931076)" fill="url(#paint_linear_1_3573_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095691" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 77.931076)" fill="url(#paint_radial_1_3573_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3574)">
+						<path id="Vector" d="M86 93.5L95 93.5L95 90.5C95 89.95 94.55 89.5 94 89.5L81 89.5C80.44 89.5 80 89.95 80 90.5L80 99.5C80 100.05 80.44 100.5 81 100.5L85 100.5L85 94.5C85 93.95 85.45 93.5 86 93.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M85 103.5C85 104.05 85.45 104.5 86 104.5L96 104.5L100 108.5L100 94.5C100 93.95 99.55 93.5 99 93.5L86 93.5C85.45 93.5 85 93.95 85 94.5L85 103.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M91 97.5L96 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M89 100.5L96 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095691" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 77.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3575_dd)">
+					<rect id="Frame 48095692" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 77.931076)" fill="url(#paint_linear_1_3575_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095692" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 77.931076)" fill="url(#paint_radial_1_3575_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3576)">
+						<path id="Vector" d="M159.7 94.2C159.89 94.39 160 94.65 160 94.91L160 108.5C160 109.05 159.55 109.5 159 109.5L141 109.5C140.45 109.5 140 109.05 140 108.5L140 90.5C140 89.95 140.45 89.5 141 89.5L154.59 89.5C154.85 89.5 155.11 89.61 155.28 89.79L159.7 94.2Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M145 104.5L155 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M145 99.5L155 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M145 94.5L152 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095692" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 77.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3577_dd)">
+					<rect id="Frame 48095693" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 77.931076)" fill="url(#paint_linear_1_3577_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095693" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 77.931076)" fill="url(#paint_radial_1_3577_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3578)">
+						<path id="Vector" d="M200 95.5L200 91.5L208 91.5L210 95.5L200 95.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M220 95.5L220 107.5L200 107.5L200 95.5L220 95.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095693" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 77.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3579_dd)">
+					<rect id="Frame 48095694" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 137.931076)" fill="url(#paint_linear_1_3579_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095694" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 137.931076)" fill="url(#paint_radial_1_3579_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3580)">
+						<path id="Vector" d="M82 167.5C80.9 167.5 80 166.6 80 165.5L80 153.5C80 152.39 80.9 151.5 82 151.5L98 151.5C99.1 151.5 100 152.39 100 153.5L100 165.5C100 166.6 99.1 167.5 98 167.5L82 167.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M82 151.5C80.9 151.5 80 152.39 80 153.5L90 160.5L100 153.5C100 152.39 99.1 151.5 98 151.5L82 151.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000"/>
+					</g>
+				</g>
+				<rect id="Frame 48095694" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 137.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3581_dd)">
+					<rect id="Frame 48095695" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 137.931076)" fill="url(#paint_linear_1_3581_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095695" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 137.931076)" fill="url(#paint_radial_1_3581_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3582)">
+						<path id="Vector" d="M150 164.5C147.23 164.5 145 162.26 145 159.5C145 156.73 147.23 154.5 150 154.5C152.76 154.5 155 156.73 155 159.5C155 162.26 152.76 164.5 150 164.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M150 151.5L150 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M150 169.5L150 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M158 159.5L160 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M140 159.5L142 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M155.65 153.84L157.07 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M142.92 166.57L144.34 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M144.34 153.84L142.92 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M157.07 166.57L155.65 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095695" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 137.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3583_dd)">
+					<rect id="Frame 48095696" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 137.931076)" fill="url(#paint_linear_1_3583_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095696" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 137.931076)" fill="url(#paint_radial_1_3583_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3584)">
+						<path id="Vector" d="M200 156.5L200 153C200 152.17 200.67 151.5 201.5 151.5L218.5 151.5C219.33 151.5 220 152.17 220 153L220 156.5L200 156.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M209 161.5L209 163.5L204 163.5L204 161.5L209 161.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M201.5 167.5C200.67 167.5 200 166.83 200 166L200 156.5L220 156.5L220 166C220 166.83 219.33 167.5 218.5 167.5L201.5 167.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095696" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 137.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3585_dd)">
+					<rect id="Frame 48095697" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 197.931076)" fill="url(#paint_linear_1_3585_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095697" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 197.931076)" fill="url(#paint_radial_1_3585_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3586)">
+						<path id="Vector" d="M82 227.5C80.9 227.5 80 226.6 80 225.5L80 213.5C80 212.4 80.9 211.5 82 211.5L98 211.5C99.1 211.5 100 212.4 100 213.5L100 225.5C100 226.6 99.1 227.5 98 227.5L82 227.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M85 216.5C84.44 216.5 84 216.05 84 215.5C84 214.94 84.44 214.5 85 214.5C85.55 214.5 86 214.94 86 215.5C86 216.05 85.55 216.5 85 216.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M95 216.5L89 224.5L84 220.5L80 223.5L80 225.5C80 226.6 80.9 227.5 82 227.5L98 227.5C99.1 227.5 100 226.6 100 225.5L100 222.5L95 216.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095697" rx="11.568927" width="43.137856" height="43.137856" transform="translate(68.431076 197.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3587_dd)">
+					<rect id="Frame 48095698" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 197.931076)" fill="url(#paint_linear_1_3587_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095698" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 197.931076)" fill="url(#paint_radial_1_3587_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3588)">
+						<path id="Vector" d="M159 228C159.55 228 160 227.55 160 227L160 212C160 211.45 159.55 211 159 211L141 211C140.45 211 140 211.45 140 212L140 227C140 227.55 140.45 228 141 228L159 228Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+						<path id="Vector" d="M143 213.5L143 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M145.99 213.5L146 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M148.99 213.5L149 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+						<path id="Vector" d="M160 216L160 212C160 211.45 159.55 211 159 211L141 211C140.45 211 140 211.45 140 212L140 216L160 216Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095698" rx="11.568927" width="43.137856" height="43.137856" transform="translate(128.431076 197.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+				<g filter="url(#filter_1_3589_dd)">
+					<rect id="Frame 48095699" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 197.931076)" fill="url(#paint_linear_1_3589_0)" fill-opacity="0.100000"/>
+					<rect id="Frame 48095699" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 197.931076)" fill="url(#paint_radial_1_3589_1)" fill-opacity="0.200000"/>
+					<g clip-path="url(#clip1_3590)">
+						<path id="Vector" d="M209.21 220.99L209.21 215.62C209.21 214.72 209.94 213.99 210.84 213.99C211.74 213.99 212.47 214.72 212.47 215.62L212.47 220.99L212.47 217.62C212.47 216.72 213.2 215.99 214.1 215.99C215 215.99 215.73 216.72 215.73 217.62L215.73 220.99L215.74 220.99L215.74 219.52C215.74 218.68 216.47 217.99 217.37 217.99C218.27 217.99 219 218.68 219 219.52L219 224.5C219 227.55 216.38 230 213.13 230L211.75 230C210.37 230 209.14 229.54 208.17 228.85L201.48 222.67C200.83 222.06 200.83 221.01 201.48 220.4C202.13 219.79 203.11 219.92 203.76 220.53L205.95 222.51L205.95 211.52C205.94 210.69 206.67 210 207.57 210C208.47 210 209.2 210.69 209.2 211.52L209.2 " stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+					</g>
+				</g>
+				<rect id="Frame 48095699" rx="11.568927" width="43.137856" height="43.137856" transform="translate(188.431076 197.931076)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="0.862146"/>
+			</g>
+		</g>
+	</g>
+	<rect id="Video" rx="19.500000" width="299.000000" height="98.000000" transform="translate(0.500000 0.500000)" stroke="#FFFFFF" stroke-opacity="0.300000" stroke-width="1.000000"/>
+</svg>

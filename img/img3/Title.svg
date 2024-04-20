@@ -1,0 +1,46 @@
+<svg width="819.000000" height="138.000000" viewBox="0 0 819 138" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_3483">
+			<rect id="Lines" width="819.000000" height="138.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_1_3484_0" x1="509.125488" y1="24.749573" x2="875.125305" y2="98.749664" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_3484_1" x1="508.875000" y1="53.250000" x2="604.875000" y2="53.250000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#C9DDFA" stop-opacity="0.380392"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_3485_0" x1="309.874512" y1="25.249573" x2="-56.125298" y2="99.249664" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_3485_1" x1="310.125000" y1="53.750000" x2="214.125000" y2="53.750000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#C9DDFA" stop-opacity="0.380392"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_1_3486_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(410.034 -7.62939e-06) rotate(90) scale(69 409.5)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.050980"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_3486_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(409.81 0) rotate(90) scale(58 344.217)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.400000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<g opacity="0.800000">
+		<g clip-path="url(#clip1_3483)">
+			<path id="line 11" d="M870.12 81.5L631.37 81.5L574.87 25L508.87 " stroke="url(#paint_linear_1_3484_0)" stroke-opacity="0.050000" stroke-width="1.000000"/>
+			<path id="line 11" d="M870.12 81.5L631.37 81.5L574.87 25L508.87 " stroke="url(#paint_linear_1_3484_1)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+			<path id="line 12" d="M-51.13 82L187.62 82L244.12 25.5L310.12 " stroke="url(#paint_linear_1_3485_0)" stroke-opacity="0.050000" stroke-width="1.000000"/>
+			<path id="line 12" d="M-51.13 82L187.62 82L244.12 25.5L310.12 " stroke="url(#paint_linear_1_3485_1)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+			<g opacity="0.800000">
+				<rect id="Lights" rx="-0.500000" width="818.000000" height="137.000000" transform="translate(0.500000 0.500000)" fill="url(#paint_radial_1_3486_0)" fill-opacity="1.000000"/>
+				<rect id="Lights" rx="-0.500000" width="818.000000" height="137.000000" transform="translate(0.500000 0.500000)" stroke="url(#paint_radial_1_3486_1)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+			</g>
+		</g>
+	</g>
+</svg>
